@@ -5,8 +5,6 @@ Enthusiastic and self-driven Data Analysis committed to delivering exceptional r
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bintang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bintang-ary-pradana/)
-[![Mail Badge](https://img.shields.io/badge/-@bintangary-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bintangarq) 
-[![Twitter Badge](https://img.shields.io/badge/-@bin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/-)](https://twitter.com/-)
 [![Mail Badge](https://img.shields.io/badge/-bintangarypradana123@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bintangarypradana123@gmail.com)
 
 ## Current Focus
