@@ -7,12 +7,9 @@ Enthusiastic and self-driven Data Analysis committed to delivering exceptional r
 [![Linkedin Badge](https://img.shields.io/badge/-Bintang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bintang-ary-pradana/)
 [![Mail Badge](https://img.shields.io/badge/-bintangarypradana123@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bintangarypradana123@gmail.com)
 
-## Current Focus
-
-- 🧑🏻‍🎓 I'm an undergraduate Informatics Student.
-- 🔭 I’m currently learning Machine Learning and Business Intelligence Tools.
-- 🧠 I'm eager to deepen my understanding of advanced data analysis techniques.
-- 🤝 I'm open to collaborating on Data Analyst role
+## Portfolio
+[Portfolio PDF](https://drive.google.com/file/d/1UsD1a-yRO-t9z4HgedqbYkQcDXXZc-Fj)\
+[Detail Portfolio in Notion](https://bintangarypradana.notion.site/Bintang-s-Portfolio-532a538c90e1458da5acd2ece1072c68)
 
 ## Get Involved
 
