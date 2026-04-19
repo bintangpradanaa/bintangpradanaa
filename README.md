@@ -1,14 +1,20 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hi I'm Bintang 
 
-Enthusiastic and self-driven Data Analyst committed to delivering impactful results. Skilled in working independently and collaboratively across diverse teams, adapting effectively to different working styles. Proficient in data management, analysis, and visualization using Excel, SQL, Python, R, Looker Studio, Tableau, and Power BI, with a strong focus on accuracy and transforming data into actionable business insights. Experienced in applying these skills across multiple projects and internships.
+Hello, I’m Bintang Ary Pradana, a data enthusiast with **1+ year of hands-on experience** in data analytics and business intelligence.
+I enjoy working across the full data lifecycle, from data collection, cleaning, and analysis to building models, developing dashboards, and delivering insights that support decision-making. I've also been involved in integrating data solutions into systems, monitoring performance, and collaborating with both technical and business teams.
+
+My main interests include Data Analytics, Business Intelligence, Predictive Modeling, and Data Automation.
 
 :mailbox: Reach me out!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bintang-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bintang-ary-pradana/)
-[![Mail Badge](https://img.shields.io/badge/-bintangarypradana11@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bintangarypradana11@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:bintangarypradana11@gmail.com)
 
 ## Portfolio
-[My Portfolio](https://www.canva.com/design/DAGqtSCLVZQ/RKmF_M-63tMOfje9NVSPdQ/view?utm_content=DAGqtSCLVZQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4a8e8f2bbb)
+[![Portfolio Summary](https://img.shields.io/badge/Portfolio-Summary-FF6F00?style=flat&logo=canva&logoColor=white)](https://www.canva.com/design/DAGqtSCLVZQ/RKmF_M-63tMOfje9NVSPdQ/view?utm_content=DAGqtSCLVZQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4a8e8f2bbb)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://bintangarypradana.vercel.app/)
+
+## Dashboard
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bintang.ary.pradana/vizzes)
 
 ## Get Involved
 
@@ -18,5 +24,16 @@ Thank you for visiting my repository! I'm exited to share my journey and learn f
 
 ## Skills
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
