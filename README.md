@@ -6,6 +6,7 @@ I enjoy working across the full data lifecycle, from data collection, cleaning, 
 My main interests include Data Analytics, Business Intelligence, Predictive Modeling, and Data Automation.
 
 :mailbox: Reach me out!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bintang-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bintang-ary-pradana/)
 [![Email](https://img.shields.io/badge/Email-Contact-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:bintangarypradana11@gmail.com)
 
@@ -14,7 +15,7 @@ My main interests include Data Analytics, Business Intelligence, Predictive Mode
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://bintangarypradana.vercel.app/)
 
 ## Dashboard
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bintang.ary.pradana/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-6C757D?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bintang.ary.pradana/vizzes)
 
 ## Get Involved
 
