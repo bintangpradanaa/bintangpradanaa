@@ -3,7 +3,7 @@
 A data enthusiast who enjoy working across the full data lifecycle. My main interests include Data Analytics, Business Intelligence, Predictive Modeling, and Data Automation.
 
 A glimpse into my workflow:
-- ⭐ Use Python as the primary engine for building models and R for deep-dive statistical research.
+- ⭐ Use Python as the primary engine for building models and R for deep-dive analysis.
 - 🗄️ Navigate diverse data environments with hands-on experience in BigQuery, PostgreSQL, SQL Server, and MySQL.
 - 🧠 Implement Machine Learning and Deep Learning architectures—ranging from Regression, Classification, Forecasting to NLP.
 - 📊 Always enjoy visualizing data with Power BI, Tableau, Looker Studio, and Streamlit.
@@ -17,8 +17,6 @@ A glimpse into my workflow:
 ## Portfolio
 [![Portfolio Summary](https://img.shields.io/badge/Portfolio-Summary-FF6F00?style=flat&logo=canva&logoColor=white)](https://www.canva.com/design/DAGqtSCLVZQ/RKmF_M-63tMOfje9NVSPdQ/view?utm_content=DAGqtSCLVZQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4a8e8f2bbb)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://bintangarypradana.vercel.app/)
-
-## Dashboard
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-6C757D?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bintang.ary.pradana/vizzes)
 
 ## Get Involved
