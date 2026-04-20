@@ -1,13 +1,13 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hi I'm Bintang 
 
-A data enthusiast who enjoy working across the full data lifecycle, from data collection, cleaning, and analysis to building models, developing dashboards, and delivering insights that support decision-making. My main interests include Data Analytics, Business Intelligence, Predictive Modeling, and Data Automation.
+A data enthusiast who enjoy working across the full data lifecycle. My main interests include Data Analytics, Business Intelligence, Predictive Modeling, and Data Automation.
 
 A glimpse into my workflow:
-- ⭐ I speak Python as my primary language for building models and R for deep-dive statistical analysis and research.
-- 📊 I bring insights to life through Streamlit for rapid data apps and build enterprise-grade dashboards using Power BI, Tableau, and Looker Studio.
-- 🧠 I implement Machine Learning and Deep Learning architectures, covering everything from Regression and Classification to Forecasting and NLP for unstructured data.
-- 🗄️ I am comfortable navigating any data environment with hands-on experience in BigQuery, PostgreSQL, SQL Server, and MySQL.
-- ⚙️ I architect Data Automation systems to handle the repetitive heavy lifting. If a workflow can be scripted, I’ll automate it to keep data moving without manual intervention.
+- ⭐ Use Python as the primary engine for building models and R for deep-dive statistical research.
+- 🗄️ Navigate diverse data environments with hands-on experience in BigQuery, PostgreSQL, SQL Server, and MySQL.
+- 🧠 Implement Machine Learning and Deep Learning architectures—ranging from Regression, Classification, Forecasting to NLP.
+- 📊 Always enjoy visualizing data with Power BI, Tableau, Looker Studio, and Streamlit.
+- ⚙️ Architect Data Automation systems to handle the heavy lifting and keep data moving without manual intervention.
 
 :mailbox: Reach me out!
 
