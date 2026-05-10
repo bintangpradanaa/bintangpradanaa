@@ -16,7 +16,7 @@ A glimpse into my workflow:
 
 ## Portfolio
 [![Portfolio Summary](https://img.shields.io/badge/Portfolio-Summary-FF6F00?style=flat&logo=canva&logoColor=white)](https://www.canva.com/design/DAGqtSCLVZQ/RKmF_M-63tMOfje9NVSPdQ/view?utm_content=DAGqtSCLVZQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4a8e8f2bbb)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://bintangarypradana.netlify.app/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://bintangarypradana.vercel.app/)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-6C757D?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bintang.ary.pradana/vizzes)
 
 ## Get Involved
